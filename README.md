@@ -9,9 +9,11 @@
 ### social
 [linkedin.com/in/aaroncarver<br/>](https://linkedin.com/in/aaroncarver)
 [youtube.com/aaroncarver<br/>](https://youtube.com/aaroncarver)
+discord - aaroncarver#4627
 facebook - *none*<br/>
 insta - *none*<br/>
 twitter - *none*<br/>
+
 
 ## Portfolio (DRAFT - 2022-12-11)
 
