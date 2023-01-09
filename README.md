@@ -1,16 +1,14 @@
-### Hi there 👋
+### projects
+[chrt.com](https://chrt.com)
 
 <!--
-**aaronmaxcarver/aaronmaxcarver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### essays
+[aaronmaxcarver.com](https://aaronmaxcarver.com)
 -->
+
+### social
+[linkedin.com/in/aaroncarver<br/>](https://linkedin.com/in/aaroncarver)
+[youtube.com/aaroncarver<br/>](https://youtube.com/aaroncarver)
+facebook - *none*<br/>
+insta - *none*<br/>
+twitter - *none*<br/>
