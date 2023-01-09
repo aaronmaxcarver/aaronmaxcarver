@@ -9,7 +9,7 @@
 ### social
 [linkedin.com/in/aaroncarver<br/>](https://linkedin.com/in/aaroncarver)
 [youtube.com/aaroncarver<br/>](https://youtube.com/aaroncarver)
-discord - aaroncarver#4627
+discord - aaroncarver#4627<br/>
 facebook - *none*<br/>
 insta - *none*<br/>
 twitter - *none*<br/>
