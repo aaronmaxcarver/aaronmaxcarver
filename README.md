@@ -7,6 +7,7 @@
 
 ### other
 [github.com/aaronmaxcarver](https://github.com/aaronmaxcarver) *(this page)*<br/>
+[github.com/chrtHub](https://github.com/chrtHub)<br/>
 [linkedin.com/in/aaroncarver](https://linkedin.com/in/aaroncarver)<br/>
 [youtube.com/aaroncarver](https://youtube.com/aaroncarver)<br/>
 discord - aaroncarver<br/>
